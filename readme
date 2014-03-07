@@ -3,5 +3,9 @@ hello
 good night
 1
 2
-3
+<<<<<<< ours
 4
+=======
+4
+6
+>>>>>>> theirs
